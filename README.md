@@ -17,7 +17,7 @@ I'm exploring a few career paths: cryptography research, offensive security (whi
 
 ## Awards
 
-- **Grand Prize (Minister of National Defense Award)**, [Crypt/cryptocontest.kr/) YYYY (Team: 암호워리어)
+- **Grand Prize (Minister of National Defense Award)**, [Crypt/cryptocontest.kr/) 2026 (Team: 암호워리어)
 - **4th Place**, [AI Detection Model Competition for Deepfake Voice Crime](https://dacon.io/competitions/official/236749/overview/description) 2026,
 hosted by the Ministry of the Interior and Safety (Team: 인서울)
 - **55th Place**, SCPC (Samsung Collegiate Programming Cup) 2025
@@ -25,7 +25,7 @@ hosted by the Ministry of the Interior and Safety (Team: 인서울)
 
 ## Tech Stack
 
-`C` `C++` `Python` `Java` `JavaScript`
+`C` `C++` `Python` `Java` `JavaScript` `solidity`
 
 ## Contact
 
