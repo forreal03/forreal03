@@ -5,7 +5,7 @@
 # Hello
 
 I'm a second-year Computer Science and Engineering student at Seoul National University of Science and Technology (SeoulTech).
-In 2026, I'm leading NL (Network Leader), a networking club at SeoulTech, as its president.
+In 2026, I'm serving as president of NL (Network Leader), a networking club at SeoulTech.
 
 ## Interests
 
@@ -17,19 +17,18 @@ I'm exploring a few career paths: cryptography research, offensive security (whi
 
 ## Awards
 
-- **Grand Prize (Minister of National Defense Award)**, [Crypt/cryptocontest.kr/) 2026 (Team: 암호워리어)
-- **4th Place**, [AI Detection Model Competition for Deepfake Voice Crime](https://dacon.io/competitions/official/236749/overview/description) 2026,
-hosted by the Ministry of the Interior and Safety (Team: 인서울)
+- **Grand Prize (Minister of National Defense Award)**, [Cryptanalysis Contest](https://cryptocontest.kr/) 2026 (Team: 암호워리어)
+- **4th Place**, [AI Detection Model Competition for Deepfake Voice Crime](https://dacon.io/competitions/official/236749/overview/description) 2026, hosted by the Ministry of the Interior and Safety (Team: 인서울)
 - **55th Place**, SCPC (Samsung Collegiate Programming Cup) 2025
 - **39th Place**, ICPC Asia Korea National First Round 2025
 
 ## Tech Stack
 
-`C` `C++` `Python` `Java` `JavaScript` `solidity`
+`C` `C++` `Python` `Java` `JavaScript` `Solidity`
 
 ## Contact
 
-- Email: [recognize@seoultech.ac.kr](mailto:recognize@seoultec
+- Email: [recognize@seoultech.ac.kr](mailto:recognize@seoultech.ac.kr)
 
 ---
 
